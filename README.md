@@ -5,3 +5,4 @@
   <li> Determines coordinates of ping pong ball in video and deduces which side of the net the ball is on. Keeps track of when the side changes to determine rally length. </li>
   <li> Also used imutils to resize frames. https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/ </li>
 </ul>
+ 
